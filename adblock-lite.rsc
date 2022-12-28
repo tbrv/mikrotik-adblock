@@ -10810,8 +10810,6 @@ add address=127.0.0.1 name=partner.googleadservices.com
 add address=127.0.0.1 name=ads.doubleclick.net
 add address=127.0.0.1 name=csi.gstatic.com
 add address=127.0.0.1 name=ad.youtube.com
-add address=127.0.0.1 name=youtube-nocookie.com
-add address=127.0.0.1 name=www.youtube-nocookie.com
 add address=127.0.0.1 name=pagead1.googlesyndication.com
 add address=127.0.0.1 name=adservices.google.com
 add address=127.0.0.1 name=www.googletagservices.com
